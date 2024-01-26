@@ -1,6 +1,3 @@
 Hey, I'm Joe Daly here to give you Joe daily
 
-Haven't really touched coding in a while but I know I'm gonna be learning R in my differential class sometime (I assume it's a Language)
-Eventually will use LaTex at some point 
-
-If I ever return to python I'll create the best RPG you've ever seen I'm sure
+I haven't really done much coding outside of workng with HTML on my website. I'd love to learn some more if I ever find the time. 
